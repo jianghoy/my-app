@@ -3,5 +3,5 @@
             [com.mycompany.app.core :refer :all]))
 
 (deftest a-test
-  (testing "Rigourous Test :-)"
+  (testing "Rigorous Test :-)"
     (is (= 0 0))))
